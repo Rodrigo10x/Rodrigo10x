@@ -10,7 +10,7 @@
         <h1>Bem-vindos!</h1>
       <h1>Eu sou Rodrigo Alves 🤓</h1>
       <h2>Sobre Mim</h2>
-        Trabalho/Estágio na Dataprev 💻📊 como estágiario.</p>
+        Trabalho na Dataprev 💻📊 como estágiario.</p>
         <p>Atualmente, estou estudando <strong>📊 Business Intelligence e 🛢️ Modelagem de Dados</strong> para aprimorar minhas habilidades e conhecimentos.</p>
     </header>
 </body>
