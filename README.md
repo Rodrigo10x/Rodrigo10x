@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Bem-Vindos!</h1>
+        <h1>Bem-vindos!</h1>
       <h1>Eu sou Rodrigo Alves 🤓</h1>
       <h2>Sobre Mim</h2>
         Trabalho/Estágio na Dataprev 💻📊 como estágiario.</p>
