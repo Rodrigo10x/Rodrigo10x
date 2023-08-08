@@ -29,6 +29,11 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoAlves&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
 
+
+
+
+![snake gif](https://github.com/Rodrigo10x/Rodrigo10x/blob/output/github-contribution-grid-snake.svg)
+
 ##
 
 <div> 
