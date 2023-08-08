@@ -32,8 +32,6 @@
 
 
 
-![snake gif](https://github.com/Rodrigo10x/Rodrigo10x/blob/output/github-contribution-grid-snake.svg)
-
 ##
 
 <div> 
@@ -41,3 +39,6 @@
   <a href="https://www.linkedin.com/in/rodrigo-alves-3b12a6230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+![snake gif](https://github.com/Rodrigo10x/Rodrigo10x/blob/output/github-contribution-grid-snake.svg)
